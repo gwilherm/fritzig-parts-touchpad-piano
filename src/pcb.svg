@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" id="svg28" x="0in" y="0in" viewBox="0 0 3937.008 984.25195" gorn="0"  version="1.2" width="3.9370079in" height="0.98425192in">
+    <defs id="defs32" />
+    <desc id="desc2" >
+        <referenceFile >dip_10_300mil_pcb.svg</referenceFile>
+    </desc>
+    <g id="layer7" gorn="0.2" />
+    <g id="layer5" gorn="0.3" >
+        <rect id="silkscreen" fill-opacity="0" x="13.81555" y="13.81555" stroke-opacity="1" stroke="#ffffff" stroke-width="27.6311" gorn="0.3.0"  fill="#000000" style="stroke-linejoin:round;" width="3909.377" height="956.62085"/>
+    </g>
+    <g id="layer6" gorn="0.4" >
+        <g id="layer4" gorn="0.4.0" >
+            <g id="copper1" gorn="0.4.0.0" >
+                <rect id="square" x="55.591801" y="664.53949" stroke="#ffbf00" stroke-width="20" gorn="0.4.0.0.0"  fill="none" width="55" height="55"/>
+                <circle id="connector0pin" cx="83.091805" cy="692.12598" stroke="#ffbf00" stroke-width="20" r="27.5" gorn="0.4.0.0.1"  fill="none"/>
+                <circle id="connector1pin" cx="83.091805" cy="392.12598" stroke="#ffbf00" stroke-width="20" r="27.5" gorn="0.4.0.0.2"  fill="none"/>
+                <circle id="connector2pin" cx="83.091805" cy="492.12598" stroke="#ffbf00" stroke-width="20" r="27.5" gorn="0.4.0.0.3"  fill="none"/>
+                <circle id="connector3pin" cx="83.091805" cy="592.12598" stroke="#ffbf00" stroke-width="20" r="27.5" gorn="0.4.0.0.4"  fill="none"/>
+                <circle id="connector4pin" cx="83.091805" cy="292.12598" stroke="#ffbf00" stroke-width="20" r="27.5" gorn="0.4.0.0.5"  fill="none"/>
+            </g>
+        </g>
+    </g>
+</svg>
